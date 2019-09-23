@@ -1,0 +1,11 @@
+python 		JSON
+
+-----		-----
+dict 		object
+list		array
+str		string
+int,float 	number
+True		true
+False		false
+None		null
+
